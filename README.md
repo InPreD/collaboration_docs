@@ -13,6 +13,7 @@ Prior to starting a new project, a short meeting with at least one representativ
 - purpose
 - language (default: python)
 - interface (e.g. command line interface, web server)
+- data flow and storage (input and output location, database/filesystem)
 - involved collaborators (which nodes have resources to contribute)
 - deployment options (e.g. baremetal, docker/apptainer)
 - integration with existing projects
